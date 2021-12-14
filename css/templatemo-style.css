@@ -974,7 +974,7 @@ textarea.form-control {
 .git{
   position:absolute;
   top:125%;
-  left:40%;
+  left:50%;
   height:40px;
   border:2px solid #fff;
   border-radius:20px;
@@ -984,8 +984,8 @@ textarea.form-control {
 }
 .git1{
   position:absolute;
-  top:125%;
-  left:60%;
+  top:160%;
+  left:50%;
   height:40px;
   border:2px solid #fff;
   border-radius:20px;
