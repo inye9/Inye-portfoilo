@@ -7,4 +7,4 @@ HTML, CSS, JavaScript이용해 만든, 프트폴리오용 반응형 Web 페이�
 
 
 ### 📎 링크 
-https://inye9.github.io/Inye-portfoilo/
+https://inye9.github.io/Inye-portfolio/
