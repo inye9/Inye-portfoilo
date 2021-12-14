@@ -973,8 +973,19 @@ textarea.form-control {
 }
 .git{
   position:absolute;
-  top:120%;
-  left:50%;
+  top:125%;
+  left:40%;
+  height:40px;
+  border:2px solid #fff;
+  border-radius:20px;
+  text-align: center;
+  line-height:40px;
+  width:200px; transform:translate(-50%, -50%); z-index:1
+}
+.git1{
+  position:absolute;
+  top:125%;
+  left:60%;
   height:40px;
   border:2px solid #fff;
   border-radius:20px;
